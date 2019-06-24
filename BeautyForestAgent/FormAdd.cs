@@ -16,6 +16,7 @@ namespace BeautyForestAgent
             set { this.Text = value; }
         }
 
+
         public FormAdd()
         {
             InitializeComponent();
